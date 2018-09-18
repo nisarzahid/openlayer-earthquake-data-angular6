@@ -1,5 +1,4 @@
 # OpenlayerEarthquakeDataAngular6
-# OpenlayerAnimationAngular6
 
 ## Angular6 OpenLayers - How to Use OL package for OpenLayer to Show Earthquake Data in Angular6 project 
 
