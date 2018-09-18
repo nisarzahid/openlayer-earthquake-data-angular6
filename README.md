@@ -1,4 +1,10 @@
 # OpenlayerEarthquakeDataAngular6
+# OpenlayerAnimationAngular6
+
+## Angular6 OpenLayers - How to Use OL package for OpenLayer to Show Earthquake Data in Angular6 project 
+
+### This example parses a KML file and renders the features as a vector layer. The layer is given a style that renders earthquake locations with a custom lightning symbol and a size relative to their magnitude.
+![Screenshot](src/assets/screen.png?raw=true "Title")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
